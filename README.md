@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Othman Benyahya
 
 
-<a href="www.linkedin.com/in/othmanbenyahya">
+<a href="https://www.linkedin.com/in/othmanbenyahya">
   <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/>
 </a>
 
@@ -71,5 +71,5 @@ I believe in learning deeply, progressing step by step, and strengthening my abi
 
 ### 📫 Contact
 
-- LinkedIn: [Othman Benyahya](www.linkedin.com/in/othmanbenyahya)
+- LinkedIn: [Othman Benyahya](https://www.linkedin.com/in/othmanbenyahya)
 
