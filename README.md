@@ -1,43 +1,39 @@
-## Hi 👋, I'm Othman Benyahya
+## Hey 👋, I'm Othman Benyahya
 
 🎓 Computer Science Student  
-🤖 Artificial Intelligence & 🔐 Cybersecurity Enthusiast  
+🤖 Artificial Intelligence & 🔐 Cybersecurity Focus  
 
-<a href="PUT_YOUR_LINKEDIN_HERE">
-  <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/>
+<a href="PUT_YOUR_LINKEDIN_LINK_HERE">
+  <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/>
 </a>
 
----
+<br/>
+<br/>
 
-### 🧭 About Me
+I am a Computer Science student with a strong and focused interest in **Artificial Intelligence** and **Cybersecurity**.  
+I aim to build solid technical foundations in both fields while continuously developing the essential skills required for a professional software engineer.
 
-I am a Computer Science student with a focused interest in **Artificial Intelligence** and **Cybersecurity**.
+I believe in learning deeply, progressing step by step, and strengthening my abilities through consistent study and practice.
 
-I work on building **strong foundations** in both fields by:
-- Studying core concepts deeply
-- Developing practical technical skills
-- Continuously improving my problem-solving and analytical thinking
+<br/>
+<br/>
 
-Alongside AI and Cybersecurity, I also invest time in learning **essential software engineering skills** that are important for becoming a well-rounded engineer.
-
-My goal is to grow step by step, with consistency, clarity, and real understanding.
+<img align="right" alt="Tech" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ---
 
-### 🧠 Areas of Focus
+### 🧐 More About Me
 
-- **Artificial Intelligence**
-  - Machine Learning
-  - Basics of Deep Learning
-
-- **Cybersecurity**
-  - Fundamentals of Networking
-  - Linux Basics
-  - Core Security Concepts
+- 🎓 &nbsp; Computer Science student
+- 🤖 &nbsp; Focused on Artificial Intelligence (Machine Learning, basics of Deep Learning)
+- 🔐 &nbsp; Learning Cybersecurity fundamentals (Networking, Linux, core security concepts)
+- 📚 &nbsp; Continuously improving both theoretical and practical skills
+- 🧠 &nbsp; Working on strengthening problem-solving and analytical thinking
+- 🌱 &nbsp; Expanding my knowledge in complementary software engineering technologies
 
 ---
 
-### 🔧 Languages & Technologies
+### 🔨 Languages and Technologies
 
 **Programming Languages**
 - C
@@ -47,26 +43,25 @@ My goal is to grow step by step, with consistency, clarity, and real understandi
 - SQL / PL/SQL
 - HTML, CSS, JavaScript
 
-**AI**
+**Artificial Intelligence**
 - Machine Learning
 - Introductory Deep Learning
 
 **Cybersecurity**
 - Networking Fundamentals
 - Linux Environment
-- Security Basics
+- Core Security Concepts
 
 ---
 
-### 📌 Current Status
+### 📊 GitHub Stats
 
-- 🎓 Computer Science Student
-- 📚 Actively learning and strengthening AI & Cybersecurity skills
-- 🛠️ Working on improving both theoretical and practical knowledge
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
 ---
 
 ### 📫 Contact
 
-- LinkedIn: [Othman Benyahya](PUT_YOUR_LINKEDIN_HERE)
+- LinkedIn: [Othman Benyahya](PUT_YOUR_LINKEDIN_LINK_HERE)
 
