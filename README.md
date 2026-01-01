@@ -60,12 +60,7 @@ I believe in learning deeply, progressing step by step, and strengthening my abi
 - Linux Environment
 - Core Security Concepts
 
----
 
-### 📊 GitHub Stats
-
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
 ---
 
